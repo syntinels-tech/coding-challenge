@@ -22,5 +22,5 @@ Hey there, thanks for taking the time. To get to know you and your working style
 4. Next, design a background script that has access to the keyword list and looks for them within the job postings (.csv or database, if you uploaded them). Feel free to do some research or to start right away, if you have a viable solution. How efficient is your implementation? Does it scale well with millions of job postings? What happens if the list of keywords is changed? What implications does that have on your data model? Be prepared to answer questions like these.
 5. Execute the script so that your results are persisted somehow.
 6. At Syntinels, we believe in test-driven development. In this case, we did not start with the tests, but how would you test your code so far? You don’t have to write something down, but it would be great to hear about your suggestions.
-7. What approach and tools would you choose to automate the process?
+7. What approach and tools would you choose to automate the process of finding keywords in the job postings?
 8. Now, that we have job postings matched with keywords, please visualize the results in the front end. It does not have to be fancy, you can use basic HTML if you want to. Just display the results somehow so that the user can see what keywords were identified for each job posting.
